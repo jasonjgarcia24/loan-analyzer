@@ -41,7 +41,7 @@ The expected .csv output is shown below:<br>
 Currently just me :)<br>
 ***
 ## <a id="License">License</a>
-Each file included in this repository is licensed under the <a href="https://github.com/jasonjgarcia24/fintech-analytics-toolbox/blob/main/LICENSE">MIT License.</a>
+Each file included in this repository is licensed under the <a href="https://github.com/jasonjgarcia24/loan-analyzer/blob/main/LICENSE">MIT License.</a>
 ***
 [Top of Page](#Top-of-Page)<br>
 [Contents](#Contents)<br>
