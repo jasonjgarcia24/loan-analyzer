@@ -24,7 +24,7 @@ We start with some fundamental calculations on a list of prices for given loans.
 <a href="https://jupyter-notebook.readthedocs.io/en/stable/"><img src="https://img.shields.io/badge/jupyter--notebook-6.4.0-blue"></a>
 ***
 ## <a id="Installation-Guide">Installation Guide</a>
-<a href="https://github.com/jasonjgarcia24/fintech-analytics-toolbox">loan-analyzer</a> distribution in the works...<br>
+<a href="https://github.com/jasonjgarcia24/loan-analyzer">loan-analyzer</a> distribution in the works...<br>
     
 <center><img src="https://media.giphy.com/media/k7LxZAzC9V70s/giphy.gif" /></center>
 
